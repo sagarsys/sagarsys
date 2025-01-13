@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Sagar, Senior Javascript Developer with 10 years of experience
+
+- Specializing in front-end development, with experience in full-stack roles
+- Proven track record of working with complex systems involving large datasets throughout the whole lifecycle of the project, as a team player or autonomously
+- Focus on UX & user engagement, and website performance
+- Clean code advocate, promoting developer productivity & code maintainability
+- Proactive & versatile problem-solver with a keen eye for detail
+- Curiosity & passion for lifelong learning, evolution, and innovation
+- Effective communicator, translating complex concepts to team members & stakeholders
+
+#### For a quick look at some projects I have worked on: [sagarsys.net](https://sagarsys.net)
 
 <!--
 **sagarsys/sagarsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

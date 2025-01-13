@@ -10,6 +10,10 @@
 
 #### For a quick look at some projects I have worked on: [sagarsys.net](https://sagarsys.net)
 
+```
+#frontend #fullstack #consultancy #js #typescript #react #nextjs #nodejs #api_development
+```
+
 <!--
 **sagarsys/sagarsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

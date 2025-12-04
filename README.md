@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sagar, a Senior Fullstack Developer with 10 years of experience
+## Hi there 👋 I'm Sagar, a Senior Fullstack Developer with 10+ years of experience
 
 - Specializing in front-end development, with experience in full-stack roles
 - Proven track record of working with complex systems involving large datasets throughout the whole lifecycle of the project, as a team player or autonomously
